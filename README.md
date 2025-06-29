@@ -41,7 +41,6 @@
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/Expenso.git
-   cd Expenso
 2. Open in Android Studio
 3. Build and Run
 4. Sync Gradle and run the app on an emulator or physical device
