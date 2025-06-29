@@ -17,7 +17,7 @@
 - 📅 Add Transactions with Date Picker  
 - 🧾 View All Transactions in a Scrollable List  
 - 🧠 Dynamic Greetings (Good Morning/Afternoon/Evening)  
-- 🧹 Clear All Transactions
+- 🧹 Clear All Transactions  
 
 ---
 
@@ -32,7 +32,10 @@
 | `Coroutines`       | Asynchronous Background Operations   |
 | `Material3`        | UI Components & Styling              |
 | `Navigation`       | Screen Navigation                    |
+
 ---
 
-### 📂 Project Structure
+### 📥 How to Open
 
+```bash
+git clone https://github.com/yourusername/Expenso.git
