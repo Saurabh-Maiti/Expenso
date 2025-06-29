@@ -1,6 +1,6 @@
 # 📱 Expenso - Expense Tracker App
 
-**Expenso** is a modern and intuitive expense tracking app built with **Jetpack Compose** and **Room Database**, designed to help users manage their income and expenses effortlessly.
+**Expenso** is a modern and intuitive expense tracking app built using **Jetpack Compose** and **Room Database**, designed to help users manage their income and expenses effortlessly.
 
 ---
 
@@ -16,8 +16,9 @@
 - 📊 Real-Time Balance Calculation  
 - 📅 Add Transactions with Date Picker  
 - 🧾 View All Transactions in a Scrollable List  
-- 🧠 Dynamic Greetings (Good Morning/Afternoon/Evening)  
-- 🧹 Clear All Transactions  
+- 🧠 Dynamic Greetings (Good Morning / Afternoon / Evening)  
+- 🔒 Local Authentication with Room (Optional)  
+- 🧹 Clear All Transactions (Password Protected)
 
 ---
 
@@ -29,13 +30,18 @@
 | `Jetpack Compose`  | Modern UI Toolkit                    |
 | `Room Database`    | Local Data Persistence               |
 | `MVVM`             | Architecture Pattern                 |
-| `Coroutines`       | Asynchronous Background Operations   |
-| `Material3`        | UI Components & Styling              |
+| `Coroutines`       | Asynchronous Operations              |
+| `Material 3`       | Modern UI Design Components          |
 | `Navigation`       | Screen Navigation                    |
 
 ---
 
 ### 📥 How to Open
 
-```bash
-git clone https://github.com/yourusername/Expenso.git
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/Expenso.git
+   cd Expenso
+2. Open in Android Studio
+3. Build and Run
+4. Sync Gradle and run the app on an emulator or physical device
